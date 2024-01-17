@@ -10,7 +10,7 @@ import random
 
 # API KEY  - the unique private code for your Machine Learning project
 global KEY
-KEY = "put-your-project-API-key-here"
+API_KEY = "7a0873a0-b541-11ee-8526-d3f91b3014820314096e-8812-471e-acc4-cb8e8c5d9ae1"
 
 
 
